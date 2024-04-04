@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hi, I'm Santiago! 👋 
+
+As a software engineer, I have a special love for Python and all it has to offer. I have had the opportunity to work in different areas ranging from Backend to Data Science. I like bizarre ideas and strange APIs.
+
+## 🔭 I’m currently working on 
+ - Backend Projects using Flask, Django & sometimes exploring serverless enviroments with AWS!.
+ - AI projects using latest OpenAI API for implementing custom LLM models for Web Applications.
+ - Exploring Big data development, optimized for working on the lightests devices!.
+
+## 🌱 I’m currently learning
+ - SEO & web positioning.
+ - Financial Analysis & Fundamental Analysis.
+ - BOT implementation with Python.
+
+## 📫 How to reach me
+
+<p>
+  <a href="https://www.linkedin.com/in/santiagossaa/" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a> &nbsp; 
+  <a href="https://www.instagram.com/santiago_ssaa/" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+  </a>
+</p>
 
 <!--
 **santiagoSSAA/santiagoSSAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
