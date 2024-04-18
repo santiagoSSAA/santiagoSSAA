@@ -17,10 +17,7 @@ As a software engineer, I have a special love for Python and all it has to offer
 <p>
   <a href="https://www.linkedin.com/in/santiagossaa/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a> &nbsp; 
-  <a href="https://www.instagram.com/santiago_ssaa/" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-  </a>
+  </a> &nbsp;
 </p>
 
 <!--
