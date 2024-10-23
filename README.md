@@ -10,7 +10,7 @@ As a software engineer, I have a special love for Python and all it has to offer
 ## 🌱 I’m currently learning
  - SEO & web positioning.
  - Financial Analysis & Fundamental Analysis.
- - BOT implementation with Python.
+ - Create a website ASAP with Streamlit
 
 ## 📫 How to reach me
 
