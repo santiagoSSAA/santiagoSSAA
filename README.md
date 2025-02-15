@@ -1,11 +1,11 @@
 ### Hi, I'm Santiago! 👋 
 
-As a software engineer, I have a special love for Python and all it has to offer. I have had the opportunity to work in different areas ranging from Backend to Data Science. I like bizarre ideas and strange APIs.
+I've been doing software for a while, now I work in a bank doing AI stuff. I still trying to make bizarre things I want them to make money this time.
 
 ## 🔭 I’m currently working on 
- - Backend Projects using Flask, Django & sometimes exploring serverless enviroments with AWS!.
- - AI projects using latest OpenAI API for implementing custom LLM models for Web Applications.
- - Exploring Big data development, optimized for working on the lightests devices!.
+ - AI stuff in a bank.
+ - Running DeepSeek-R1 on my $300 laptop & trying to craft top-tier products.
+ - How to integrate an LLM in everything, even in a pregnancy test.
 
 ## 🌱 I’m currently learning
  - Solo Founding and all that marketing stuff.
@@ -15,8 +15,8 @@ As a software engineer, I have a special love for Python and all it has to offer
 ## 📫 How to reach me
 
 <p>
-  <a href="https://www.linkedin.com/in/santiagossaa/" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  <a href="https://linktr.ee/santiagossaa" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/Linktree-1DB954?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
   </a> &nbsp;
 </p>
 
