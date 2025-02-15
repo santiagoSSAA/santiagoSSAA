@@ -8,9 +8,9 @@ As a software engineer, I have a special love for Python and all it has to offer
  - Exploring Big data development, optimized for working on the lightests devices!.
 
 ## 🌱 I’m currently learning
- - SEO & web positioning.
- - Fast (as hell) ways to integrate AI in projects.
- - SaaS & Micro SaaS Knowledge
+ - Solo Founding and all that marketing stuff.
+ - Replit, I'm surprinsingly in love of that.
+ - How to create a successful SaaS as a SoloFounder.
 
 ## 📫 How to reach me
 
