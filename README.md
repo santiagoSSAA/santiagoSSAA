@@ -1,6 +1,8 @@
 ### Hi, I'm Santiago! 👋 
 
-I've been doing software for a while, now I work in a bank doing AI stuff. I still trying to make bizarre things I want them to make money this time.
+I've been doing software for a while. Now I work in a bank doing AI stuff. 
+
+    Still like crafting bizarre things, but this time I want them to make money.
 
 ## 🔭 I’m currently working on 
  - AI stuff in a bank.
